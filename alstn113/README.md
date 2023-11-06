@@ -6,5 +6,6 @@
 | 2차시 | 2023.10.30 |   집합   | [[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | [#3](https://github.com/AlgoLeadMe/AlgoLeadMe-2/pull/3) |
 | 3차시 | 2023.11.01 |   구현   |    [[3]차 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)     | [#4](https://github.com/AlgoLeadMe/AlgoLeadMe-2/pull/4) |
 | 4차시 | 2023.11.03 | 딕셔너리 |      [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)       | [#9](https://github.com/AlgoLeadMe/AlgoLeadMe-2/pull/9) |
+| 5차시 | 2023.11.06 | 투포인터 |      [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)       | [#14](https://github.com/AlgoLeadMe/AlgoLeadMe-2/pull/14) |
 
 ---
