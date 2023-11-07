@@ -5,5 +5,6 @@
 | 1차시 | 2023.10.27 |     Queue      |      [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)       | [#1]() |
 | 2차시 | 2023.11.02 |     Greedy     |                 [국회의원 선거](https://www.acmicpc.net/problem/1417)                  | [#2]() |
 | 3차시 | 2023.11.05 | 구현, 경우의수 | [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585) | [#3]() |
+| 4차시 | 2023.11.06 |     Greedy     |                     [A와 B](https://www.acmicpc.net/problem/12904)                     | [#4]() |
 
 ---
