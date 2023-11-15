@@ -7,8 +7,7 @@ a = [0 for i in range(m)]
 
 def go(index, selected, n, m):
     if selected == m:
-        for i in range(m):
-            print(a[i])
+        print(*a)
         return
     
     if index > n:
