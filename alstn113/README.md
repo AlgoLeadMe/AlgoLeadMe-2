@@ -8,5 +8,8 @@
 | 4차시 | 2023.11.03 | 딕셔너리 |      [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)       |  [#9](https://github.com/AlgoLeadMe/AlgoLeadMe-2/pull/9)  |
 | 5차시 | 2023.11.06 | 투포인터 |       [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)       | [#14](https://github.com/AlgoLeadMe/AlgoLeadMe-2/pull/14) |
 | 6차시 | 2023.11.08 |   구현   |        [규칙 숫자 야구](https://level.goorm.io/exam/175928/규칙-숫자-야구/quiz/1)        | [#18](https://github.com/AlgoLeadMe/AlgoLeadMe-2/pull/18) |
+| 7차시 | 2023.11.10 |   구현   |   [[3차] 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)   | [#20](https://github.com/AlgoLeadMe/AlgoLeadMe-2/pull/20) |
+| 8차시 | 2023.11.13 |   구현   |                    [ACM Craft](https://www.acmicpc.net/problem/1005)                     | [#24](https://github.com/AlgoLeadMe/AlgoLeadMe-2/pull/24) |
+| 9차시 | 2023.11.15 |  누적합  |              [태상이의 훈련소 생활](https://www.acmicpc.net/problem/19951)               | [#27](https://github.com/AlgoLeadMe/AlgoLeadMe-2/pull/27) |
 
 ---
