@@ -9,4 +9,6 @@
 | 5차시 | 2023.11.10 |  브루트포스  | [수 이어 쓰기 1](https://www.acmicpc.net/problem/1748)  | [#5](https://github.com/AlgoLeadMe/AlgoLeadMe-2/pull/21#issue-1987159001) |
 | 6차시 | 2023.11.12 |  DP  | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)  | [#6](https://github.com/AlgoLeadMe/AlgoLeadMe-2/pull/23#issue-1989391080) |
 | 7차시 | 2023.11.15 |  브루트포스  | [N과 M (2)](https://www.acmicpc.net/problem/15650)  | [#7](https://github.com/AlgoLeadMe/AlgoLeadMe-2/pull/26#issue-1994243225) |
+| 8차시 | 2023.11.17 |  브루트포스  | [N과 M (3)](https://www.acmicpc.net/problem/15651)  | [#8](https://github.com/AlgoLeadMe/AlgoLeadMe-2/pull/29#issue-1998300348) |
+| 9차시 | 2023.11.20 |  브루트포스(순열)  | [다음 순열](https://www.acmicpc.net/problem/10972)  | [#9](https://github.com/AlgoLeadMe/AlgoLeadMe-2/pull/34#issue-2001566224) |
 ---
