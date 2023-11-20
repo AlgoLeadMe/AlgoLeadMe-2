@@ -5,7 +5,7 @@ n = int(input())
 
 arr = list(map(int, input().split()))
 
-def next_premutaiont(arr, n):
+def next_premutaion(arr, n):
     i = n-1
     while i > 0 and arr[i-1] >= arr[i]: i -= 1
     if i <= 0: return False
@@ -19,5 +19,5 @@ def next_premutaiont(arr, n):
         j -= 1
     return True
 
-if (next_premutaiont(arr, n)): print(*arr)
+if (next_premutaion(arr, n)): print(*arr)
 else: print(-1)
