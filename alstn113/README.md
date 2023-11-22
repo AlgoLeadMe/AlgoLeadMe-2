@@ -13,5 +13,6 @@
 | 9차시  | 2023.11.15 |   누적합   |              [태상이의 훈련소 생활](https://www.acmicpc.net/problem/19951)               | [#27](https://github.com/AlgoLeadMe/AlgoLeadMe-2/pull/27) |
 | 10차시 | 2023.11.17 | 다익스트라 |              [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)              | [#27](https://github.com/AlgoLeadMe/AlgoLeadMe-2/pull/28) |
 | 11차시 | 2023.11.20 |    DFS     |       [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)       | [#32](https://github.com/AlgoLeadMe/AlgoLeadMe-2/pull/32) |
+| 12차시 | 2023.11.22 |    Heap    |       [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)       | [#36](https://github.com/AlgoLeadMe/AlgoLeadMe-2/pull/32) |
 
 ---
