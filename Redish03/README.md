@@ -7,6 +7,7 @@
 | 3차시 | 2023.11.05 |  구현, 경우의수  | [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585) | [#3]() |
 | 4차시 | 2023.11.06 |      Greedy      |                     [A와 B](https://www.acmicpc.net/problem/12904)                     | [#4]() |
 | 5차시 | 2023.11.17 |       BFS        |                     [토마토](https://www.acmicpc.net/problem/7576)                     | [#5]() |
-| 6차시 | 2023.11.20 | 구현, 브루트포스 |       [가장 가까운 세 사람의 심리적 거리](https://www.acmicpc.net/problem/20529)       | [#5]() |
+| 6차시 | 2023.11.20 | 구현, 브루트포스 |       [가장 가까운 세 사람의 심리적 거리](https://www.acmicpc.net/problem/20529)       | [#6]() |
+| 7차시 | 2023.11.22 |  Priority Queue  |                    [최소 힙](https://www.acmicpc.net/problem/1927)                     | [#7]() |
 
 ---
