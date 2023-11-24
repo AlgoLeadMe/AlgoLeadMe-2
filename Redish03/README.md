@@ -9,5 +9,6 @@
 | 5차시 | 2023.11.17 |       BFS        |                     [토마토](https://www.acmicpc.net/problem/7576)                     | [#5]() |
 | 6차시 | 2023.11.20 | 구현, 브루트포스 |       [가장 가까운 세 사람의 심리적 거리](https://www.acmicpc.net/problem/20529)       | [#6]() |
 | 7차시 | 2023.11.22 |  Priority Queue  |                    [최소 힙](https://www.acmicpc.net/problem/1927)                     | [#7]() |
+| 8차시 | 2023.11.24 |    다익스트라    |                 [서강그라운드](https://www.acmicpc.net/problem/14938)                  | [#8]() |
 
 ---
