@@ -19,6 +19,7 @@ void bfs()
 {
     queue<pair<int, int>> q;
     q = q_init;
+    // arr2 배열에 arr 배열 대입
     for (int i = 0; i < N; i++)
     {
         for (int j = 0; j < M; j++)
@@ -27,6 +28,7 @@ void bfs()
         }
     }
 
+    // BFS 실행
     while (!q.empty())
     {
         int x = q.front().first;
@@ -51,9 +53,10 @@ void bfs()
             arr2[nx][ny] = 2;
         }
     }
-
+    // visited 초기화
     memset(visited, false, sizeof(visited));
 
+    // 최대 0의 개수 계산
     int tmp = 0;
     for (int i = 0; i < N; i++)
     {
@@ -72,21 +75,27 @@ void bfs()
 
 void stand_wall()
 {
+    // 만약 3개를 다 세웠다면
     if (wall_count == 0)
     {
+        // bfs를 돌리고 return
         return bfs();
     }
 
+    // 3개를 다 세우지 않았다면
+    // 모든 경우에 대해서 벽을 세우기
     for (int i = 0; i < N; i++)
     {
         for (int j = 0; j < M; j++)
         {
+            // 해당 배열의 값이 0이 아니라면 넘김
             if (arr[i][j] != 0)
                 continue;
-
+            // 0일 때 해당 위치에 벽을 세우고 재귀함수 호출
             arr[i][j] = 1;
             wall_count--;
             stand_wall();
+            // 돌리고 난 후 wall_count와 배열 값 복구 시킴
             wall_count++;
             arr[i][j] = 0;
         }
