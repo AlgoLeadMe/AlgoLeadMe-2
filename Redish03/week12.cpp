@@ -30,7 +30,7 @@ void bfs()
             if (visited[nx][ny] || arr[nx][ny] == 0)
                 continue;
 
-            // 목표 지점에서
+            // 목표 지점에서 떨어진 거리 계산
             arr[nx][ny] = arr[x][y] + 1;
             visited[nx][ny] = true;
             q.push({nx, ny});
