@@ -14,4 +14,5 @@
 | 10차시 | 2023.11.22 |  BFS  | [로또](https://www.acmicpc.net/problem/6603)  | [#10](https://github.com/AlgoLeadMe/AlgoLeadMe-2/pull/37#issue-2005682311) |
 | 11차시 | 2023.11.24 |  브루트포스(백트래킹)  | [스타트와 링크](https://www.acmicpc.net/problem/14889)  | [#11](https://github.com/AlgoLeadMe/AlgoLeadMe-2/pull/40#issue-2009824440) |
 | 12차시 | 2023.12.25 |  브루트포스(재귀)  | [부등호](https://www.acmicpc.net/problem/2529)  | [#12](https://github.com/AlgoLeadMe/AlgoLeadMe-2/pull/43#issue-2055028576) |
+| 13차시 | 2023.12.28 |  브루트포스(재귀)  | [Guess](https://www.acmicpc.net/problem/1248)  | [#13](https://github.com/AlgoLeadMe/AlgoLeadMe-2/pull/47#issue-2058027662) |
 ---
