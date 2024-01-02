@@ -7,3 +7,4 @@
 | 3차시 | 2023.11.10 |  DP  |                      [정수 삼각형]                      | [#3](https://github.com/AlgoLeadMe/AlgoLeadMe-2/pull/22) |
 | 4차시 | 2023.11.13 |  DP  |                      [파도반 수열]                      | [#4](https://github.com/AlgoLeadMe/AlgoLeadMe-2/pull/25) |
 | 5차시 | 2023.11.18 |  DP  |                      [연속합](https://www.acmicpc.net/problem/1912)                      | [#4](https://github.com/AlgoLeadMe/AlgoLeadMe-2/pull/31) |
+| 6차시 | 2023.12.25 |  구현  |                      [럭키스트레이트](https://www.acmicpc.net/problem/18406)                      | [#44](https://github.com/AlgoLeadMe/AlgoLeadMe-2/pull/44) |

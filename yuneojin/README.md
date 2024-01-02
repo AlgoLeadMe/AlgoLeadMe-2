@@ -16,6 +16,4 @@
 | 12차시 | 2023.12.25 |  브루트포스(재귀)  | [부등호](https://www.acmicpc.net/problem/2529)  | [#12](https://github.com/AlgoLeadMe/AlgoLeadMe-2/pull/43#issue-2055028576) |
 | 13차시 | 2023.12.28 |  브루트포스(재귀)  | [Guess](https://www.acmicpc.net/problem/1248)  | [#13](https://github.com/AlgoLeadMe/AlgoLeadMe-2/pull/47#issue-2058027662) |
 | 14차시 | 2023.12.30 |  브루트포스(순열)  | [차이를 최대로](https://www.acmicpc.net/problem/10819)  | [#14](https://github.com/AlgoLeadMe/AlgoLeadMe-2/pull/49#issue-2060640002) |
-
-
 ---

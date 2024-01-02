@@ -12,5 +12,7 @@
 | 8차시  | 2023.11.24 |    다익스트라    |                 [서강그라운드](https://www.acmicpc.net/problem/14938)                  | [#8]()  |
 | 9차시  | 2023.11.27 |  Priority Queue  |                    [최대 힙](https://www.acmicpc.net/problem/11279)                    | [#9]()  |
 | 10차시 | 2023.12.25 |       재귀       |                 [색종이 만들기](https://www.acmicpc.net/problem/2630)                  | [#10]() |
+| 11차시 | 2023.12.27 | BFS, 브루트포스  |                    [연구소](https://www.acmicpc.net/problem/14502)                     | [#11]() |
+| 12차시 | 2023.12.29 |       BFS        |                 [쉬운 최단거리](https://www.acmicpc.net/problem/14940)                 | [#12]() |
 
 ---
